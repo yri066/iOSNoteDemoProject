@@ -17,17 +17,18 @@
 
 ### Скриншоты:
 
-<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image26.jpeg?raw=true" height="400" />
-<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image51.jpeg?raw=true" height="400" />
-<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image35.jpeg?raw=true" height="400" />
-<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image42.jpeg?raw=true" height="400" />
-<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image45.jpeg?raw=true" height="400" />
-<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image46.jpeg?raw=true" height="400" />
-<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image47.jpeg?raw=true" height="400" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image26.jpeg?raw=true" height="300" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image51.jpeg?raw=true" height="300" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image35.jpeg?raw=true" height="300" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image42.jpeg?raw=true" height="300" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image45.jpeg?raw=true" height="300" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image46.jpeg?raw=true" height="300" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image47.jpeg?raw=true" height="300" />
 </details>
 
 <details><summary>Дипломная работа 2023</summary>
 Задание: создать и обучить нейронную сеть для распознавания рукописного текста.
+
 
 Результат: была создана и обучена модель нейронной сети с использованием TensorFlow, после чего интегрирована в приложение.
   
