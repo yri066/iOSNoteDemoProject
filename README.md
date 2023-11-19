@@ -47,7 +47,7 @@
 - Редактор документов (переработан процесс рисования)
 - Используется собственный формат документов
 
-### Демонстрация работы:
+### Видео демонстрация работы:
 
 [![Watch the video](https://img.youtube.com/vi/taZ4KlJQXV4/mqdefault.jpg)](https://youtu.be/taZ4KlJQXV4)
 </details>
