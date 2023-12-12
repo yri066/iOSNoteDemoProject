@@ -29,6 +29,7 @@
 <img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image45.jpeg?raw=true" height="300" />
 <img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image46.jpeg?raw=true" height="300" />
 <img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/image47.jpeg?raw=true" height="300" />
+<img src="https://github.com/yri066/iOSNoteDemoProject/blob/main/2.jpg?raw=true" height="300" />
 </details>
 
 <details><summary>Дипломная работа 2023</summary>
